@@ -1,2 +1,2 @@
 # Tutorials
-basic tools and examples to learn Cheminformatic  
+This is a tutorial to practice cheminformatic and the available tools in gct3k.
