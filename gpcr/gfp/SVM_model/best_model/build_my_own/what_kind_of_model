@@ -1,0 +1,31 @@
+svmfpr.v2
+
+Response 4073.8
+
+fp -EC3 -ecbig
+
+bit_xref bit_xref
+
+model_file train.svml.model
+
+traingfp train.gfp
+
+activity_normalisation_data activity_normalisation_data
+
+gfp_make /lrlhps/users/l017896/repo/gc3tk/c3tk-core/bin/sh/gfp_make.sh
+
+#build.time 2021-11-30 12:02
+
+#build.user l017896
+
+#build.dir /home/l017896/Cheminfo/Cheminfo_tutorial/gpcr/gfp/SVM_model/best_model
+
+#build.response 4073.8
+
+#build.hostname brainiac0994
+
+#build.uname Linux brainiac0994 3.10.0-1160.36.2.el7.x86_64 #1 SMP Thu Jul 8 02:53:40 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+
+threshold_b 0.92800143
+
+support_vectors 16
